@@ -1,6 +1,6 @@
 For any questions, please email me at pooja.rao@stonybrook.edu.
 
-For the IACS Code Quest 2020, the participants are expected to use Jupyter Notebook (If you want to use another medium, please email us to let us know). The preferred way is to install the Anaconda distribution (downloading Anaconda's latest Python3 version is recommended), which includes Jupyter Notebook. Alternatively, you can also install Jupyter Notebook using pip3 with Python3.\
+For the IACS Code Quest 2020, the participants are expected to use Jupyter Notebook (If you want to use another medium, please email us to let us know). The preferred way is to install the Anaconda distribution (downloading Anaconda's latest Python3 version is recommended), which includes Jupyter Notebook. Alternatively, you can also install Jupyter Notebook using pip3 with Python3.
 
 The instructions for installation (using Ananconda or Python) and usage are as follows:
 
