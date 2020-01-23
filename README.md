@@ -8,7 +8,7 @@ The instructions for installation (using Ananconda or Python) and usage are as f
    https://jupyter.readthedocs.io/en/latest/install.html
    This includes installation instructions using Anaconda as well as using pip3 with Python3.
    
-2. Running the Juputer Notebook
+2. Running the Juputer Notebook \\
    https://jupyter.readthedocs.io/en/latest/running.html 
    
 3. Trying the jupyter notebook via browser without any installation
